@@ -1,0 +1,207 @@
+/* style for Cuda page */
+#Cuda{
+    background-color :#86509c;
+}
+.Nav a {
+    color: white;
+    font-size: 18px;
+    margin-left: 20px;
+    padding: 7px;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}
+.Nav{
+    margin-left: 650px;
+    padding: 12px;
+    margin-top: -50px;
+}
+.active{
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+.Nav a:hover{
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+.CudaLogo{
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.PurpleParagraph{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 45px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 50px;
+}
+.PurpleButton{
+    font-size: 20px;
+    background-color:#c76a41;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 450px;
+    color: white;
+    border-radius: 8px;
+    box-shadow: 0 5px #D2691E;
+}
+/* The style for Form Page */
+#Form{
+    background-color:#4040a8;
+    font-family: 'Open Sans', sans-serif;
+}
+.BlueHeader{
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+    text-transform: uppercase;
+}
+hr{
+    width: 6%;
+    height: 2px;
+    background-color:#252577;
+    border: none;
+    margin-top: -10px;
+}
+.BlueHeader2{
+    font-size: 10px;
+    color: white;
+    text-align: center;
+}
+.Name{
+    width: 30%;
+    height: 35px;
+    background-color: #30307e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 200px;
+    padding: 5px;
+    margin-top: 60px;
+}
+input::-webkit-input-placeholder {
+    color: white;
+    }
+.Email{
+    width: 30%;
+    height: 35px;
+    background-color: #30307e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px; 
+}
+input{
+    margin-left: 60px;
+}
+textarea{
+    width: 66%;
+    margin-left: 197px;
+    margin-top: 20px;
+    background-color: #30307e;
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+    color: white;
+}
+textarea::-webkit-input-placeholder {
+    color: white;
+    }
+.MessageSend{
+    background-color:	#00CED1;
+    border: none;
+    font-size: 16px;
+    padding: 15px 32px;
+    text-align: center;
+    width: 18%;
+    margin-left: 500px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+/*Style for 'Services we provide' page */
+#Services{
+    background-color: #96ef96;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.services{
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.line{
+    background-color: rgb(68, 136, 104);
+    height: 4px;
+}
+.discription{
+    font-size: 18px;    
+    color: white;
+    text-align: center;
+}
+.icons{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.flag{
+    margin-left: -60px;
+}
+.flag img{
+    margin-left: 65px;
+}
+.pencil{
+    margin-left: 100px;
+}
+.rocket{
+    margin-left: 100px;
+}
+.greas{
+    margin-left: 100px;
+}
+.FlagHeader{
+    color: white;
+    font-size: 24px;
+    margin-left: 45px;
+    text-transform: uppercase;
+}
+.FlagParagraph{
+    color: white;
+    font-size: 16px;
+}
+.PencilHeader{
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.PencilParagraph{
+    color: white;
+    font-size: 16px;
+    margin-left: -50px;
+}
+.GreasHeader{
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.GreasParagraph{
+    color: white;
+    font-size: 16px;
+    margin-left: -15px;
+}
+.RocketHeader{
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-left: -34px;
+}
+.RocketParagraph{
+    color: white;
+    font-size: 16px;
+    margin-left: -35px;
+}
